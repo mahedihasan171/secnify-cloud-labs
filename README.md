@@ -1,2 +1,9 @@
-# secnify-cloud-labs
-Transitioning to DevOps Engineer.
+Secnify Cloud Labs
+
+Learning Journey:
+- Linux
+- Docker
+- CI/CD
+- Kubernetes
+- Terraform
+- AWS
